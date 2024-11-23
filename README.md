@@ -1,9 +1,6 @@
-# IT-SupportEngineer
-IT Support Engineer
+# IT-SupportEngineer (Jnr Program)
 
-Remote Tools Mastery
-
-This section highlights my dedication to empowering both technical and non-technical individuals through tailored training modules. Key areas of focus include:
+This section highlights my consultancy services for technical and non-technical individuals through customized training modules.
 
 - Real-World Troubleshooting: Immerse yourself in practical scenarios and role-playing exercises to develop  problem-solving skills.
 - User-Friendly Guides:  Solid understanding of technical terminology and best practices through clear and concise documentation.
