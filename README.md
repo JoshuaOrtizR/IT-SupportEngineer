@@ -11,4 +11,4 @@ This section highlights my dedication to empowering both technical and non-techn
 - Ticketing Efficiency: Hands on the art of efficient ticket management and documentation using industry-standard tools like Jira.
 - Remote Tool Proficiency: Become adept in utilizing remote tools such as AnyDesk for seamless remote support.
 - Customer-Centric Approach: Develop strong interpersonal skills to effectively communicate with and assist customers.
-- **While specific course materials are confidential due to internal policies, the provided technical sheets offer insights into the comprehensive curriculum.**
+- **Due to internal policies, I cannot share the exact course materials. However, the technical sheets provide a detailed overview of the curriculum, including topics covered and learning objectives.**
