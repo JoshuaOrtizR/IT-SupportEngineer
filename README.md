@@ -1,4 +1,4 @@
-# IT-SupportEngineer (l1 - l2)
+# IT-SupportEngineer (L1 - L2)
 
 This section highlights my consultancy services for technical and non-technical individuals through customized training modules.
 
